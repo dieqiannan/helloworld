@@ -1,0 +1,9 @@
+myname
+
+class MyDemo{
+
+   publish static void getName(){
+        return "name";
+    }
+
+}
